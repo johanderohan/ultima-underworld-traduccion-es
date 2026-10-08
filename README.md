@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/playstation/ultima-underworld)**.
+
 Traducción al **español de España** de la versión japonesa de PlayStation de *Ultima Underworld:
 The Stygian Abyss* (ウルティマ・アンダーワールド), el clásico de Blue Sky Productions / Looking Glass
 y Origin. Se ha traducido **desde el japonés**, cotejado con el guion
